@@ -24,5 +24,4 @@ Para ejecutar este juego, necesitas:
 
 1. **Clona este repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/tu-repositorio-space-invaders.git](https://github.com/tu-usuario/tu-repositorio-space-invaders.git)
-   cd tu-repositorio-space-invaders
+   https://github.com/techNico-Escolano/SpaceInvaders.git
